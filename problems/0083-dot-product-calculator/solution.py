@@ -9,5 +9,4 @@ def calculate_dot_product(vec1, vec2):
 	Returns:
 		The dot product of the two vectors.
 	"""
-	assert vec1.size == vec2.size
-	return sum([vec1[i]*vec2[i] for i in range(vec1.size)])
+	return np.dot(vec1, vec2)
