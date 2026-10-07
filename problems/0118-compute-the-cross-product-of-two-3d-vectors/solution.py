@@ -1,4 +1,4 @@
 import numpy as np
 
-def cross_product(a: list, b: list):
+def cross_product(a, b):
     return np.cross(np.asarray(a), np.asarray(b))
