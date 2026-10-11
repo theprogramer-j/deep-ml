@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 24 problems · 0 labs · 16 math
+**41** solved · 25 problems · 0 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-07 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-10-09 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-06 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-11 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-07 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-06 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-06 | [solution](problems/0002-transpose-of-a-matrix) |
